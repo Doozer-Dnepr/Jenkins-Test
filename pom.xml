@@ -18,7 +18,9 @@
 
     <build>
 
+
         <plugins>
+
 
             <plugin>
 
@@ -36,6 +38,7 @@
 
             </plugin>
 
+
             <plugin>
 
                 <groupId>org.apache.maven.plugins</groupId>
@@ -51,7 +54,9 @@
                 </configuration>
             </plugin>
 
+
         </plugins>
+
 
     </build>
 
