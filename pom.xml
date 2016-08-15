@@ -45,7 +45,6 @@
 		<configuration>
                     <archive>
                         <manifest>
-                            <addClasspath>true</addClasspath>
                             <mainClass>com.epam.HelloWorld</mainClass>
                         </manifest>
                     </archive>
